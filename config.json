@@ -1,0 +1,8 @@
+{
+    "android_play_store_base_url": "https://play.google.com/store/apps/details?id=",
+    "ios_search_url": "https://itunes.apple.com/search",
+    "mobile_app_search_limit": 10,
+    "ios_search_timeout": 10
+  }
+  
+  
